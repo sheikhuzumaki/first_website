@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="registerstyle.css">
+	<title>Register page</title>
+</head>
+<body style="border-style: solid; height: 750px">
+	<header>
+		<h1 style="text-align: center;">Register</h1>
+	</header>
+	<section>
+		<div>
+			<form>
+				<div class="class0">
+				<ul style="list-style: none; ">
+					<li>
+					<label>First Name</label>
+					<input type="input" name="firstName">
+					<label >Last Name</label>
+					<input type="input" name="lastName">
+					</li>
+				</ul>
+				</div>
+				<div class="class1">
+					<label>Email</label>
+					<input class="email" type="email" name="Email">
+				</div>
+				<div class="class2">
+					<label>Password</label>
+					<input class="password" type="password" name="Password">
+				</div>
+				<div class="class3">
+					<label>Skills</label>
+					<select>
+						<option>Front End</option>
+						<option>Back End</option>
+						<option>Full Stack</option>
+					</select>
+				</div>
+				<div class="class4">
+					<ul style="list-style: none;">
+						<li>
+							<label>Male</label>
+							<input type="radio" name="Male">
+							<label>Female</label>
+							<input type="radio" name="Female">
+							<label>Other</label>
+							<input type="radio" name="Other">
+						</li>
+					</ul>
+				</div>
+				<div class="class5">
+				<label>Agree</label>
+				<input type="checkbox" name="Agree">
+			</div>
+			<div class="class6">
+				<input type="button" value="Register" onclick="window.location.href='#'"  />
+			</div>
+			</form>
+		</div>
+	</section>
+</body>
+</html>

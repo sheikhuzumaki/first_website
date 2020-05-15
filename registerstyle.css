@@ -1,0 +1,43 @@
+section{
+	border-style: solid;
+	height: 600px;
+	width: 600px;
+	position: relative;
+	top:50px;
+	left: 150px;
+}
+.class0{
+	padding-top: 50px;
+}
+.class1{
+	padding-top: 50px;
+	padding-left: 40px;
+}
+.class2{
+	padding-top: 50px;
+	padding-left: 40px;
+}
+.class3{
+	padding-top: 50px;
+	padding-left: 40px;
+}
+.class4{
+	padding-top: 50px;
+	padding-right: : 40px;
+}
+.class5{
+	padding-top: 50px;
+	padding-left: 40px;
+}
+.class6{
+	padding-top: 50px;
+	padding-left: 40px;
+}
+.email{
+	position: relative;
+	left: 31px;
+}
+.password{
+	position: relative;
+	left: 7px;
+}
