@@ -1,0 +1,33 @@
+.class0{
+	text-align: center;
+}
+section{
+	width: 700px;
+	height: 1100px;
+	position: relative;
+	top:50px;
+	left: 150px;
+}
+.class1{
+	border-style: solid;
+}
+.class2{
+	border-style: solid;
+}
+.class3{
+	padding-top: 20px;
+}
+.class4{
+	padding-top: 20px;
+}
+.class5{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	position: relative;
+	left: 62px;
+}
+.email{
+	position: relative;
+	left: 20px;
+	
+}
